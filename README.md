@@ -94,7 +94,7 @@ In the future:
 
 ### Prerequisites
 
--   Install [Node.js](https://nodejs.org) version 16.16.0 LTS
+-   Install [Node.js](https://nodejs.org) version 20.11.1 LTS
     -   If you are using [nvm](https://github.com/creationix/nvm#installation) (recommended) running `nvm use` will automatically choose the right node version for you.
 -   Alchemy API Key - [apply here](https://auth.alchemyapi.io/signup)
 -   Etherscan API Key - [apply here](https://etherscan.io/register)
